@@ -1,0 +1,3 @@
+﻿  program.cpp
+C:\Users\Devin\source\repos\OpenGlTest\program.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  OpenGlTest.vcxproj -> C:\Users\Devin\source\repos\OpenGlTest\x64\Debug\OpenGlTest.exe
